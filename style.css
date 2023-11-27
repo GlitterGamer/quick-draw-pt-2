@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(169,240,75);
+}
+
+#score{
+    font-size: 40px;
+    margin-right: 500px;
+}
+
+#timer{
+    font-size: 40px;
+    margin-left: 500px;
+}
+
+#your_sketch{
+    font-size: 25px;
+}
+
+#confidence_label{
+    font-size: 25px;
+}
+
+#sketch_to_be_drawn{
+    font-size: 25px;
+    color: red;
+}
+
+canvas{
+    margin-top: 50px;
+}
